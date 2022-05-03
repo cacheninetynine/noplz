@@ -14,6 +14,3 @@ A simple and useless esolang by me. Written on python
 #### ! : prints the mix variable
 #### % : multiplies the variable by 2
 #### a : ascii text mode (disabled by default too and does nothing (yet))
-
-#### examples:
-#### print all numbers from 1 to 9: c+*+*+*+*+*+*+*+*+*!

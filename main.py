@@ -73,6 +73,7 @@ def noplz(esotericcode):
             asciimode = True
         ei = ei + 1
 
+# you can delete everything below, it's the UI
 
 def clicked():
     txt2.config(text = noplz(txt.get()))
